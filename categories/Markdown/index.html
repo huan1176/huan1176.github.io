@@ -358,8 +358,8 @@
 
 <script>
     // 每天切换 banner 图.  Switch banner image every day.
-    var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
-    $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
+    var bannerUrl = "/medias/banner/" + new Date().getDay() + '.webp';
+    $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay() + '.webp)');
 </script>
 
 
@@ -406,7 +406,7 @@
                         <div class="card-image tag-image">
                             
                             
-                            <img src="/medias/featureimages/7.jpg" class="responsive-img" alt="测试页面">
+                            <img src="/medias/featureimages/7.webp" class="responsive-img" alt="测试页面">
                             
                             <span class="card-title">测试页面</span>
                         </div>
