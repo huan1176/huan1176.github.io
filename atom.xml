@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-17T05:16:22.499Z</updated>
+  <updated>2021-02-17T07:01:06.731Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown编写练习</title>
+    <link href="http://example.com/2021/02/17/study1/"/>
+    <id>http://example.com/2021/02/17/study1/</id>
+    <published>2021-02-17T06:04:39.000Z</published>
+    <updated>2021-02-17T07:01:06.731Z</updated>
+    
+    
+    
+    
+    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    
+    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown编写练习</title>
+    <link href="http://example.com/2021/02/17/test2/"/>
+    <id>http://example.com/2021/02/17/test2/</id>
+    <published>2021-02-17T06:04:39.000Z</published>
+    <updated>2021-02-17T07:09:48.873Z</updated>
+    
+    
+    
+    
+    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>测试页面</title>
@@ -29,9 +67,9 @@
     <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
-    
     <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    
+    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
     
   </entry>
   
@@ -40,7 +78,7 @@
     <link href="http://example.com/2021/02/17/hello-world/"/>
     <id>http://example.com/2021/02/17/hello-world/</id>
     <published>2021-02-17T03:30:58.023Z</published>
-    <updated>2021-02-17T03:30:58.023Z</updated>
+    <updated>2021-02-17T07:02:22.446Z</updated>
     
     
       
@@ -53,6 +91,10 @@
     
     
     
+    
+    <category term="hello world" scheme="http://example.com/tags/hello-world/"/>
+    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
   </entry>
   
