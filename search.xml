@@ -5,33 +5,6 @@
     
     <entry>
       <title>markdown编写练习</title>
-      <link href="2021/02/17/test2/"/>
-      <url>2021/02/17/test2/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-            <tag> python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>markdown编写练习</title>
       <link href="2021/02/17/study1/"/>
       <url>2021/02/17/study1/</url>
       
@@ -50,6 +23,33 @@
             <tag> Markdown </tag>
             
             <tag> Typora </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>markdown编写练习</title>
+      <link href="2021/02/17/test2/"/>
+      <url>2021/02/17/test2/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> python </tag>
             
         </tags>
       
