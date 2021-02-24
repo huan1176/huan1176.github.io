@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>markdown背景和编辑软件</title>
+      <link href="2021/02/24/day/"/>
+      <url>2021/02/24/day/</url>
+      
+        <content type="html"><![CDATA[<h1 id="对于markdown的简单了解"><a href="#对于markdown的简单了解" class="headerlink" title="对于markdown的简单了解"></a>对于markdown的简单了解</h1><p>自从 2014 年左右接触到 Markdown 以来，对它的使用就一发而不可收拾。从最开始使用它在 GitHub Pages 里写博客，到用它编辑项目的 README 文件，再到撰写开发文档，编辑微信公众号文章和邮件内容等等，这期间也见证了它在各类平台和网站上的普及和被原生支持，可以说，Markdown 如今已经渗透了我在技术和网络活动的方方面面，成为了我撰写文本文档的首选。</p><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><h3 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h3><ol><li><p>专注于文字内容；</p></li><li><p>纯文本，易读易写，可以方便地纳入版本控制；</p></li><li><p>语法简单，没有什么学习成本，能轻松在码字的同时做出美观大方的排版。</p></li></ol><h3 id="使用场景"><a href="#使用场景" class="headerlink" title="使用场景"></a>使用场景</h3><ul><li><p>各类代码托管平台</p></li><li><p>主流的代码托管平台，如 GitHub、GitLab、BitBucket、Coding、Gitee 等等，都支持 Markdown 语法，很多开源项目的 README、开发文档、帮助文档、Wiki 等都用 Markdown 写作。</p></li><li><p>技术社区和写作平台<br>StackOverflow、CSDN、掘金、简书、GitBook、有道云笔记</p></li><li><p>论坛<br>V2EX、光谷社区</p></li></ul><h2 id="编辑工具推荐"><a href="#编辑工具推荐" class="headerlink" title="编辑工具推荐"></a>编辑工具推荐</h2><ol><li><p>mou<br>Mou 是一款由国人开发的Markdown 编辑器，支持实时预览，但是仅支持 苹果操作系统，可以说是目前最好用的免费 Markdown 编辑器，对汉字兼容性非常好。提供语法高亮、在线预览、同步滚动、全屏模式，支持自定保存、自动匹配，允许自定义主题等等。支持 CSS，HTML 和 PDF 导出等功能。<br>更多介绍及下载：<a href="http://25.io/mou/">http://25.io/mou/</a></p></li><li><p>MarkdownPad<br>MarkdownPad被很多人称赞为windows下最好用的Markdown编辑器之一，不过仅支持windows。它有免费版和收费版（MarkdownPad Pro），一般情况下免费版就够用了，想用pro版的可以自行网上下载，强大的国人crack无处不在的~ ~。<br>更多介绍及下载：<a href="http://markdownpad.com/">http://markdownpad.com/</a></p></li><li><p>Typora<br>Typora也是非常用名，非常好用的markdown编辑器，它的设计理念很不一样，是真正的即时预览型编辑器，不同于左右两个窗口的编辑器。Typora的设计理念就是极致简洁，它将「写字」和「预览」这两件事情合并了。<br>更多介绍及下载：<a href="https://www.typora.io/">https://www.typora.io/</a></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>markdown编写练习</title>
       <link href="2021/02/17/study1/"/>
       <url>2021/02/17/study1/</url>
@@ -20,9 +47,9 @@
       
         <tags>
             
-            <tag> Markdown </tag>
-            
             <tag> Typora </tag>
+            
+            <tag> Markdown </tag>
             
         </tags>
       
@@ -74,9 +101,9 @@
       
         <tags>
             
-            <tag> Markdown </tag>
-            
             <tag> Typora </tag>
+            
+            <tag> Markdown </tag>
             
         </tags>
       
@@ -95,9 +122,9 @@
       
         <tags>
             
-            <tag> hello world </tag>
-            
             <tag> Markdown </tag>
+            
+            <tag> hello world </tag>
             
         </tags>
       
