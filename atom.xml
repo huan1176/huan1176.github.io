@@ -3,11 +3,11 @@
   <title>枫Blog</title>
   
   <subtitle>世界很暗，但是你来了</subtitle>
-  <link href="http://huan1176.gitee.io/huan1176.gitee.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="http://huan1176.gitee.io/huan1176.gitee.io/"/>
+  <link href="http://example.com/"/>
   <updated>2021-02-17T07:01:06.731Z</updated>
-  <id>http://huan1176.gitee.io/huan1176.gitee.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>秋枫</name>
@@ -18,65 +18,65 @@
   
   <entry>
     <title>markdown编写练习</title>
-    <link href="http://huan1176.gitee.io/huan1176.gitee.io/2021/02/17/study1/"/>
-    <id>http://huan1176.gitee.io/huan1176.gitee.io/2021/02/17/study1/</id>
+    <link href="http://example.com/2021/02/17/study1/"/>
+    <id>http://example.com/2021/02/17/study1/</id>
     <published>2021-02-17T06:04:39.000Z</published>
     <updated>2021-02-17T07:01:06.731Z</updated>
     
     
     
     
-    <category term="Markdown" scheme="http://huan1176.gitee.io/huan1176.gitee.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
     
     
-    <category term="Markdown" scheme="http://huan1176.gitee.io/huan1176.gitee.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
-    <category term="Typora" scheme="http://huan1176.gitee.io/huan1176.gitee.io/tags/Typora/"/>
+    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
     
   </entry>
   
   <entry>
     <title>markdown编写练习</title>
-    <link href="http://huan1176.gitee.io/huan1176.gitee.io/2021/02/17/test2/"/>
-    <id>http://huan1176.gitee.io/huan1176.gitee.io/2021/02/17/test2/</id>
+    <link href="http://example.com/2021/02/17/test2/"/>
+    <id>http://example.com/2021/02/17/test2/</id>
     <published>2021-02-17T06:04:39.000Z</published>
     <updated>2021-02-17T07:09:48.873Z</updated>
     
     
     
     
-    <category term="Markdown" scheme="http://huan1176.gitee.io/huan1176.gitee.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
     
     
-    <category term="Markdown" scheme="http://huan1176.gitee.io/huan1176.gitee.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
-    <category term="python" scheme="http://huan1176.gitee.io/huan1176.gitee.io/tags/python/"/>
+    <category term="python" scheme="http://example.com/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>测试页面</title>
-    <link href="http://huan1176.gitee.io/huan1176.gitee.io/2021/02/17/text/"/>
-    <id>http://huan1176.gitee.io/huan1176.gitee.io/2021/02/17/text/</id>
+    <link href="http://example.com/2021/02/17/text/"/>
+    <id>http://example.com/2021/02/17/text/</id>
     <published>2021-02-17T04:04:39.000Z</published>
     <updated>2021-02-17T05:16:22.499Z</updated>
     
     
     
     
-    <category term="Markdown" scheme="http://huan1176.gitee.io/huan1176.gitee.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
     
     
-    <category term="Markdown" scheme="http://huan1176.gitee.io/huan1176.gitee.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
-    <category term="Typora" scheme="http://huan1176.gitee.io/huan1176.gitee.io/tags/Typora/"/>
+    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://huan1176.gitee.io/huan1176.gitee.io/2021/02/17/hello-world/"/>
-    <id>http://huan1176.gitee.io/huan1176.gitee.io/2021/02/17/hello-world/</id>
+    <link href="http://example.com/2021/02/17/hello-world/"/>
+    <id>http://example.com/2021/02/17/hello-world/</id>
     <published>2021-02-17T03:30:58.023Z</published>
     <updated>2021-02-17T07:02:22.446Z</updated>
     
@@ -92,9 +92,9 @@
     
     
     
-    <category term="hello world" scheme="http://huan1176.gitee.io/huan1176.gitee.io/tags/hello-world/"/>
+    <category term="hello world" scheme="http://example.com/tags/hello-world/"/>
     
-    <category term="Markdown" scheme="http://huan1176.gitee.io/huan1176.gitee.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
   </entry>
   
